@@ -9,5 +9,5 @@ func main() {
 }
 
 func getName() string {
-	return "Dave"
+	return "Chloe"
 }
