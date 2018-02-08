@@ -1,4 +1,5 @@
 .idea/
+.wercker/
 *~
 
 # Binaries for programs and plugins
